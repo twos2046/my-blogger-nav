@@ -1,0 +1,33 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #282c34;
+  padding: 20px;
+  color: white;
+}
+
+.blogger-card {
+  border: 1px solid #ddd;
+  margin: 10px;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.blogger-card .avatar {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+}
+
+.blogger-card .social-links a {
+  margin: 0 5px;
+  text-decoration: none;
+  color: #007bff;
+}
+
+.blogger-card .wechat-qr img {
+  width: 100px;
+  height: 100px;
+}
